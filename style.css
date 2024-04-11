@@ -1,0 +1,54 @@
+/* Estilos para o container principal */
+.container {
+    width: 320px;
+    padding: 20px;
+    background-color: #add8e6; /* Azul bebê */
+    border-radius: 10px;
+    text-align: center; /* Centraliza o conteúdo */
+}
+
+/* Estilos para o campo de senha */
+.password-container {
+    margin-bottom: 20px;
+}
+
+/* Estilos para o campo de senha */
+#password {
+    margin-bottom: 10px;
+    width: 280px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Estilos para o botão de gerar senha */
+#generate-password {
+   
+    margin-right: 10px;
+    background-color: #4CAF50; /* Verde */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Estilos para o botão de salvar senha */
+#save-password {
+    margin-right: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}

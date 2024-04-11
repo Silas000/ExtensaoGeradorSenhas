@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Gerador de Senhas",
+    "version": "1.0",
+    "description": "Uma extensão para gerar senhas aleatórias e armazená-las de forma segura.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "128": "icon.png"
+        }
+    },
+    "permissions": ["storage"]
+}
